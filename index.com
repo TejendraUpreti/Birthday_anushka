@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>For My Love ❤️</title>
+<title>For My Love Betu Ji❤️</title>
 
 <style>
 body {
@@ -159,7 +159,7 @@ function slideshow(){
 
 // 🎂 Countdown
 function countdown(){
-    let bday=new Date("2026-05-10");
+    let bday=new Date("2026-05-21");
     setInterval(()=>{
         let now=new Date();
         let diff=bday-now;
